@@ -6,7 +6,6 @@ bin/akmd
 bin/charging
 bin/hci_qcomm_init
 bin/mm-qcamera-daemon
-bin/mpdecision
 bin/radish
 bin/rmt_storage
 bin/thermald
